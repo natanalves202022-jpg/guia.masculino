@@ -437,3 +437,30 @@ a{color:inherit}button{font:inherit}svg.i{flex-shrink:0}
  .hero-copy>h1{font-size:26px;line-height:1.16}
  .hero-copy>.hero-lede{font-size:15px;line-height:1.46}
 }
+
+/* Melhor leitura da primeira dobra em mobile: priorizar conforto visual */
+@media(max-width:700px){
+.hero-layout{padding-top:36px;padding-bottom:44px}
+.hero-copy>.eyebrow{font-size:13px;line-height:1.5;letter-spacing:.045em;margin-bottom:20px;overflow-wrap:break-word}
+.hero-copy>h1{font-size:32px;line-height:1.22;letter-spacing:-.035em;max-width:none;text-wrap:pretty}
+.hero-copy>.hero-lede{font-size:17px;line-height:1.6;margin-top:21px;margin-bottom:0;color:#d9e1e2}
+.hero-copy>.hero-inline-media{margin-top:24px;margin-bottom:0}
+.hero-copy>.btn-hero{font-size:16px;line-height:1.4;min-height:65px;padding:16px 18px;margin-top:20px;gap:9px}
+.hero-copy>.btn-hero svg{flex-shrink:0}
+.hero-copy>.hero-proof{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.35fr);gap:14px;width:100%;margin-top:23px;align-items:start;justify-content:stretch}
+.hero .hero-proof span{display:flex;align-items:flex-start;font-size:13px;line-height:1.42;gap:7px;white-space:normal}
+.hero .hero-proof svg{flex:0 0 18px;margin-top:1px}
+.hero .hero-proof span:last-child{grid-column:1/-1;justify-content:center}
+}
+@media(max-width:380px){
+.hero-copy>h1{font-size:31px;line-height:1.21}
+.hero-copy>.hero-lede{font-size:17px;line-height:1.57}
+.hero-copy>.eyebrow{font-size:12.5px}
+.hero .hero-proof span{font-size:12.5px}
+.hero-copy>.btn-hero{font-size:15.5px}
+}
+@media(max-width:320px){
+.hero-copy>h1{font-size:29px}
+.hero-copy>.hero-proof{grid-template-columns:1fr}
+.hero .hero-proof span:last-child{grid-column:auto;justify-content:flex-start}
+}
