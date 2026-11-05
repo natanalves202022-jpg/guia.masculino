@@ -358,3 +358,21 @@ a{color:inherit}button{font:inherit}svg.i{flex-shrink:0}
  .method-item .method-inner>p:last-child{font-size:.86rem}
  .product-photo{height:194px}
 }
+
+/* Ajuste solicitado: foto contextual na primeira tela, antes do CTA;
+   no celular não duplicar o mockup que ficava abaixo do botão.
+   Imagem oficial dos produtos mantida, sem alterações nos arquivos. */
+.hero-inline-media{display:none}
+.example-product-media{display:flex;align-items:center;justify-content:center;background:#efe8dc;padding:16px}
+.example-product-media img{display:block;width:100%;height:auto;max-height:440px;object-fit:contain;border-radius:10px}
+@media(max-width:700px){
+  .hero-inline-media{display:block;overflow:hidden;margin:22px 0 0;border-radius:17px;background:#28404a;border:1px solid #bda17875;box-shadow:0 17px 38px -24px #050f15a8}
+  .hero-inline-media img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;object-position:center}
+  .hero-visual{display:none}
+  .hero .btn-hero{margin-top:17px}
+  .example-product-media{min-height:215px;padding:14px;border-radius:17px}
+  .example-product-media img{height:auto;max-height:320px;aspect-ratio:auto;object-fit:contain}
+}
+@media(min-width:701px){
+  .example-product-media{min-height:350px}
+}
