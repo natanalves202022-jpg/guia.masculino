@@ -531,3 +531,47 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid #d7
  .sticky-inner>div{display:none}
  .sticky-inner .btn{width:100%}
 }
+
+
+/* Direção visual da landing page enxuta: hierarquia, ritmo e foco na oferta. */
+.hero{background:radial-gradient(ellipse at 83% 25%,#294752 0%,#132c38 43%,#10232e 100%)}
+.hero-copy>h1 em{color:#f0c78c}
+.hero-copy>.hero-lede{max-width:52ch}
+.hero-documentary-slot{border:1px solid #ffffff25;box-shadow:0 24px 60px -35px #000c}
+.section-intro h2{letter-spacing:-.035em}
+.pain,.products,.faq{background:#fbf9f5}
+.pain{border-bottom:1px solid #e8e0d5}
+.method{background:linear-gradient(155deg,#152f3b,#10232e)}
+.method-item{border-color:#ffffff23}
+.products .product-card{background:#fff;border-color:#e7dfd4;box-shadow:0 12px 34px -29px #10232e65}
+.plans{background:linear-gradient(145deg,#183846,#10232e)}
+.pricing-grid{align-items:stretch}
+.price-card.featured{outline:0}
+.price-card.featured .btn-featured{font-weight:800}
+.faq-layout{grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:clamp(25px,5vw,70px)}
+.faq-list{align-self:start}
+.faq-item summary{font-weight:700}
+.final-content{padding-block:clamp(68px,8vw,105px)}
+@media(max-width:700px){
+ .hero{background:linear-gradient(160deg,#1a3945,#10232e 75%)}
+ .hero-copy>h1{font-size:clamp(1.85rem,7.8vw,2.3rem);line-height:1.16}
+ .hero-copy>.hero-lede{font-size:1.045rem}
+ .section-intro{margin-bottom:28px}
+ .pain-layout{gap:22px}
+ .pain-layout .photo-frame{order:2}
+ .method-grid{grid-template-columns:1fr 1fr}
+ .method-item{border-radius:15px}
+ .method-inner{padding:16px 14px}
+ .product-grid{gap:15px}
+ .pricing-grid{gap:22px}
+ .price-card.featured{order:-1;margin-top:18px}
+ .faq-layout{grid-template-columns:1fr;gap:22px}
+ .faq-heading{text-align:left}
+ .faq-heading .eyebrow{justify-content:flex-start}
+ .faq-item summary{font-size:1rem}
+ .final-content{padding-block:64px 75px}
+}
+@media(max-width:390px){
+ .method-grid{grid-template-columns:1fr}
+ .method-photo{height:160px}
+}
