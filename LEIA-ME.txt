@@ -1,0 +1,16 @@
+Página: O Guia da Virada Masculina 40+: O Plano 5-7-21-90 para Homens em Dia
+
+O QUE TEM AQUI
+- index.html: a página de vendas. É o arquivo que abre quando alguém acessa o seu domínio.
+- assets/: o estilo (style.css) e as imagens. Mantenha esta pasta junto do index.html.
+- checkout/order-bump.txt (se existir): o texto dos order bumps pra colar na plataforma de pagamento.
+
+COMO SUBIR
+Hostinger: hPanel > Arquivos > Gerenciador de arquivos > public_html. Envie o ZIP e use 'Extrair'.
+  O index.html precisa ficar direto dentro de public_html (não dentro de uma subpasta).
+Vercel: vercel.com/new > 'Deploy' arrastando a pasta descompactada, ou publique direto pelo LowStack.
+Netlify: app.netlify.com/drop e arraste a pasta descompactada.
+Lovable, v0, Replit ou qualquer outra: suba os arquivos mantendo a mesma estrutura de pastas.
+
+
+Os links de checkout, o pixel e as UTMs já estão dentro do HTML, do jeito que foram configurados no LowStack.
