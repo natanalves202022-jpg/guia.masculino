@@ -1,0 +1,857 @@
+[
+  {
+    "text": "Você passa horas vendo vídeos de outras pessoas. E se começasse a criar os seus?",
+    "frames": 193,
+    "captions": [
+      {
+        "text": "Você",
+        "startMs": 96.291,
+        "endMs": 362.499,
+        "timestampMs": 96.291,
+        "confidence": null
+      },
+      {
+        "text": "passa",
+        "startMs": 374.083,
+        "endMs": 663.416,
+        "timestampMs": 374.083,
+        "confidence": null
+      },
+      {
+        "text": "horas",
+        "startMs": 675.0,
+        "endMs": 1022.208,
+        "timestampMs": 675.0,
+        "confidence": null
+      },
+      {
+        "text": "vendo",
+        "startMs": 1033.791,
+        "endMs": 1299.999,
+        "timestampMs": 1033.791,
+        "confidence": null
+      },
+      {
+        "text": "vídeos",
+        "startMs": 1311.583,
+        "endMs": 1670.374,
+        "timestampMs": 1311.583,
+        "confidence": null
+      },
+      {
+        "text": "de",
+        "startMs": 1681.958,
+        "endMs": 1786.124,
+        "timestampMs": 1681.958,
+        "confidence": null
+      },
+      {
+        "text": "outras",
+        "startMs": 1797.666,
+        "endMs": 2110.166,
+        "timestampMs": 1797.666,
+        "confidence": null
+      },
+      {
+        "text": "pessoas",
+        "startMs": 2121.75,
+        "endMs": 2712.041,
+        "timestampMs": 2121.75,
+        "confidence": null
+      },
+      {
+        "text": "E",
+        "startMs": 3506.958,
+        "endMs": 3611.124,
+        "timestampMs": 3506.958,
+        "confidence": null
+      },
+      {
+        "text": "se",
+        "startMs": 3622.666,
+        "endMs": 3738.416,
+        "timestampMs": 3622.666,
+        "confidence": null
+      },
+      {
+        "text": "começasse",
+        "startMs": 3750.0,
+        "endMs": 4305.541,
+        "timestampMs": 3750.0,
+        "confidence": null
+      },
+      {
+        "text": "a",
+        "startMs": 4317.125,
+        "endMs": 4351.833,
+        "timestampMs": 4317.125,
+        "confidence": null
+      },
+      {
+        "text": "criar",
+        "startMs": 4363.416,
+        "endMs": 4675.916,
+        "timestampMs": 4363.416,
+        "confidence": null
+      },
+      {
+        "text": "os",
+        "startMs": 4687.5,
+        "endMs": 4791.666,
+        "timestampMs": 4687.5,
+        "confidence": null
+      },
+      {
+        "text": "seus",
+        "startMs": 4803.25,
+        "endMs": 5173.625,
+        "timestampMs": 4803.25,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Uma página sem aparecer coloca o assunto no centro. Pode ser games, curiosidades ou receitas. Escolha um tema para começar.",
+    "frames": 299,
+    "captions": [
+      {
+        "text": "Uma",
+        "startMs": 96.291,
+        "endMs": 350.916,
+        "timestampMs": 96.291,
+        "confidence": null
+      },
+      {
+        "text": "página",
+        "startMs": 362.5,
+        "endMs": 779.166,
+        "timestampMs": 362.5,
+        "confidence": null
+      },
+      {
+        "text": "sem",
+        "startMs": 790.75,
+        "endMs": 964.375,
+        "timestampMs": 790.75,
+        "confidence": null
+      },
+      {
+        "text": "aparecer",
+        "startMs": 975.916,
+        "endMs": 1450.457,
+        "timestampMs": 975.916,
+        "confidence": null
+      },
+      {
+        "text": "coloca",
+        "startMs": 1462.041,
+        "endMs": 1867.124,
+        "timestampMs": 1462.041,
+        "confidence": null
+      },
+      {
+        "text": "o",
+        "startMs": 1878.708,
+        "endMs": 1924.9989,
+        "timestampMs": 1878.708,
+        "confidence": null
+      },
+      {
+        "text": "assunto",
+        "startMs": 1936.583,
+        "endMs": 2341.666,
+        "timestampMs": 1936.583,
+        "confidence": null
+      },
+      {
+        "text": "no",
+        "startMs": 2353.25,
+        "endMs": 2445.833,
+        "timestampMs": 2353.25,
+        "confidence": null
+      },
+      {
+        "text": "centro",
+        "startMs": 2457.416,
+        "endMs": 2885.666,
+        "timestampMs": 2457.416,
+        "confidence": null
+      },
+      {
+        "text": "Pode",
+        "startMs": 3680.541,
+        "endMs": 3935.166,
+        "timestampMs": 3680.541,
+        "confidence": null
+      },
+      {
+        "text": "ser",
+        "startMs": 3946.75,
+        "endMs": 4131.916,
+        "timestampMs": 3946.75,
+        "confidence": null
+      },
+      {
+        "text": "games",
+        "startMs": 4143.5,
+        "endMs": 4560.166,
+        "timestampMs": 4143.5,
+        "confidence": null
+      },
+      {
+        "text": "curiosidades",
+        "startMs": 4791.666,
+        "endMs": 5486.124,
+        "timestampMs": 4791.666,
+        "confidence": null
+      },
+      {
+        "text": "ou",
+        "startMs": 5497.666,
+        "endMs": 5613.416,
+        "timestampMs": 5497.666,
+        "confidence": null
+      },
+      {
+        "text": "receitas",
+        "startMs": 5625.0,
+        "endMs": 6296.291,
+        "timestampMs": 5625.0,
+        "confidence": null
+      },
+      {
+        "text": "Escolha",
+        "startMs": 7094.916,
+        "endMs": 7569.457,
+        "timestampMs": 7094.916,
+        "confidence": null
+      },
+      {
+        "text": "um",
+        "startMs": 7581.0,
+        "endMs": 7708.333,
+        "timestampMs": 7581.0,
+        "confidence": null
+      },
+      {
+        "text": "tema",
+        "startMs": 7719.916,
+        "endMs": 8020.832,
+        "timestampMs": 7719.916,
+        "confidence": null
+      },
+      {
+        "text": "para",
+        "startMs": 8032.416,
+        "endMs": 8206.041,
+        "timestampMs": 8032.416,
+        "confidence": null
+      },
+      {
+        "text": "começar",
+        "startMs": 8217.583,
+        "endMs": 8692.124,
+        "timestampMs": 8217.583,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Depois, transforme uma dúvida em um vídeo útil. Escreva um roteiro simples. Use materiais que você pode usar e faça sua própria edição.",
+    "frames": 275,
+    "captions": [
+      {
+        "text": "Depois",
+        "startMs": 96.291,
+        "endMs": 640.291,
+        "timestampMs": 96.291,
+        "confidence": null
+      },
+      {
+        "text": "transforme",
+        "startMs": 848.625,
+        "endMs": 1404.166,
+        "timestampMs": 848.625,
+        "confidence": null
+      },
+      {
+        "text": "uma",
+        "startMs": 1415.75,
+        "endMs": 1566.208,
+        "timestampMs": 1415.75,
+        "confidence": null
+      },
+      {
+        "text": "dúvida",
+        "startMs": 1577.791,
+        "endMs": 1901.874,
+        "timestampMs": 1577.791,
+        "confidence": null
+      },
+      {
+        "text": "em",
+        "startMs": 1913.416,
+        "endMs": 1971.291,
+        "timestampMs": 1913.416,
+        "confidence": null
+      },
+      {
+        "text": "um",
+        "startMs": 1982.875,
+        "endMs": 2075.458,
+        "timestampMs": 1982.875,
+        "confidence": null
+      },
+      {
+        "text": "vídeo",
+        "startMs": 2087.041,
+        "endMs": 2376.374,
+        "timestampMs": 2087.041,
+        "confidence": null
+      },
+      {
+        "text": "útil.",
+        "startMs": 2387.958,
+        "endMs": 2573.124,
+        "timestampMs": 2387.958,
+        "confidence": null
+      },
+      {
+        "text": "Escreva",
+        "startMs": 2584.708,
+        "endMs": 2943.499,
+        "timestampMs": 2584.708,
+        "confidence": null
+      },
+      {
+        "text": "um",
+        "startMs": 2955.083,
+        "endMs": 3012.958,
+        "timestampMs": 2955.083,
+        "confidence": null
+      },
+      {
+        "text": "roteiro",
+        "startMs": 3024.541,
+        "endMs": 3418.041,
+        "timestampMs": 3024.541,
+        "confidence": null
+      },
+      {
+        "text": "simples",
+        "startMs": 3429.625,
+        "endMs": 4043.041,
+        "timestampMs": 3429.625,
+        "confidence": null
+      },
+      {
+        "text": "Use",
+        "startMs": 4837.958,
+        "endMs": 5092.583,
+        "timestampMs": 4837.958,
+        "confidence": null
+      },
+      {
+        "text": "materiais",
+        "startMs": 5104.166,
+        "endMs": 5648.166,
+        "timestampMs": 5104.166,
+        "confidence": null
+      },
+      {
+        "text": "que",
+        "startMs": 5659.708,
+        "endMs": 5740.708,
+        "timestampMs": 5659.708,
+        "confidence": null
+      },
+      {
+        "text": "você",
+        "startMs": 5752.333,
+        "endMs": 5972.249,
+        "timestampMs": 5752.333,
+        "confidence": null
+      },
+      {
+        "text": "pode",
+        "startMs": 5983.791,
+        "endMs": 6203.707,
+        "timestampMs": 5983.791,
+        "confidence": null
+      },
+      {
+        "text": "usar",
+        "startMs": 6215.291,
+        "endMs": 6504.624,
+        "timestampMs": 6215.291,
+        "confidence": null
+      },
+      {
+        "text": "e",
+        "startMs": 6516.208,
+        "endMs": 6562.4989,
+        "timestampMs": 6516.208,
+        "confidence": null
+      },
+      {
+        "text": "faça",
+        "startMs": 6574.083,
+        "endMs": 6874.999,
+        "timestampMs": 6574.083,
+        "confidence": null
+      },
+      {
+        "text": "sua",
+        "startMs": 6886.583,
+        "endMs": 7094.916,
+        "timestampMs": 6886.583,
+        "confidence": null
+      },
+      {
+        "text": "própria",
+        "startMs": 7106.5,
+        "endMs": 7465.291,
+        "timestampMs": 7106.5,
+        "confidence": null
+      },
+      {
+        "text": "edição",
+        "startMs": 7476.833,
+        "endMs": 7905.083,
+        "timestampMs": 7476.833,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Publique, observe o que prende a atenção e melhore o próximo vídeo. A rotina precisa de teste e ajuste.",
+    "frames": 237,
+    "captions": [
+      {
+        "text": "Publique",
+        "startMs": 96.291,
+        "endMs": 570.832,
+        "timestampMs": 96.291,
+        "confidence": null
+      },
+      {
+        "text": "observe",
+        "startMs": 813.875,
+        "endMs": 1357.875,
+        "timestampMs": 813.875,
+        "confidence": null
+      },
+      {
+        "text": "o",
+        "startMs": 1369.458,
+        "endMs": 1415.7489,
+        "timestampMs": 1369.458,
+        "confidence": null
+      },
+      {
+        "text": "que",
+        "startMs": 1427.333,
+        "endMs": 1554.666,
+        "timestampMs": 1427.333,
+        "confidence": null
+      },
+      {
+        "text": "prende",
+        "startMs": 1566.208,
+        "endMs": 1855.541,
+        "timestampMs": 1566.208,
+        "confidence": null
+      },
+      {
+        "text": "a",
+        "startMs": 1867.125,
+        "endMs": 1878.708,
+        "timestampMs": 1867.125,
+        "confidence": null
+      },
+      {
+        "text": "atenção",
+        "startMs": 1890.291,
+        "endMs": 2434.291,
+        "timestampMs": 1890.291,
+        "confidence": null
+      },
+      {
+        "text": "e",
+        "startMs": 2445.833,
+        "endMs": 2503.708,
+        "timestampMs": 2445.833,
+        "confidence": null
+      },
+      {
+        "text": "melhore",
+        "startMs": 2515.291,
+        "endMs": 2874.082,
+        "timestampMs": 2515.291,
+        "confidence": null
+      },
+      {
+        "text": "o",
+        "startMs": 2885.666,
+        "endMs": 2920.374,
+        "timestampMs": 2885.666,
+        "confidence": null
+      },
+      {
+        "text": "próximo",
+        "startMs": 2931.958,
+        "endMs": 3383.333,
+        "timestampMs": 2931.958,
+        "confidence": null
+      },
+      {
+        "text": "vídeo",
+        "startMs": 3394.916,
+        "endMs": 3730.582,
+        "timestampMs": 3394.916,
+        "confidence": null
+      },
+      {
+        "text": "A",
+        "startMs": 4525.458,
+        "endMs": 4618.041,
+        "timestampMs": 4525.458,
+        "confidence": null
+      },
+      {
+        "text": "rotina",
+        "startMs": 4629.625,
+        "endMs": 5057.875,
+        "timestampMs": 4629.625,
+        "confidence": null
+      },
+      {
+        "text": "precisa",
+        "startMs": 5069.458,
+        "endMs": 5486.124,
+        "timestampMs": 5069.458,
+        "confidence": null
+      },
+      {
+        "text": "de",
+        "startMs": 5497.666,
+        "endMs": 5636.541,
+        "timestampMs": 5497.666,
+        "confidence": null
+      },
+      {
+        "text": "teste",
+        "startMs": 5648.166,
+        "endMs": 6006.957,
+        "timestampMs": 5648.166,
+        "confidence": null
+      },
+      {
+        "text": "e",
+        "startMs": 6018.5,
+        "endMs": 6064.7909,
+        "timestampMs": 6018.5,
+        "confidence": null
+      },
+      {
+        "text": "ajuste",
+        "startMs": 6076.375,
+        "endMs": 6620.375,
+        "timestampMs": 6076.375,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Mas atenção: visualização não é venda. Para vender, você precisa de uma oferta que faça sentido para quem acompanha sua página.",
+    "frames": 278,
+    "captions": [
+      {
+        "text": "Mas",
+        "startMs": 96.291,
+        "endMs": 281.457,
+        "timestampMs": 96.291,
+        "confidence": null
+      },
+      {
+        "text": "atenção",
+        "startMs": 293.041,
+        "endMs": 883.332,
+        "timestampMs": 293.041,
+        "confidence": null
+      },
+      {
+        "text": "visualização",
+        "startMs": 1184.25,
+        "endMs": 1890.25,
+        "timestampMs": 1184.25,
+        "confidence": null
+      },
+      {
+        "text": "não",
+        "startMs": 1901.833,
+        "endMs": 2086.999,
+        "timestampMs": 1901.833,
+        "confidence": null
+      },
+      {
+        "text": "é",
+        "startMs": 2098.625,
+        "endMs": 2168.083,
+        "timestampMs": 2098.625,
+        "confidence": null
+      },
+      {
+        "text": "venda",
+        "startMs": 2179.625,
+        "endMs": 2538.416,
+        "timestampMs": 2179.625,
+        "confidence": null
+      },
+      {
+        "text": "Para",
+        "startMs": 3333.333,
+        "endMs": 3553.249,
+        "timestampMs": 3333.333,
+        "confidence": null
+      },
+      {
+        "text": "vender",
+        "startMs": 3564.833,
+        "endMs": 3969.916,
+        "timestampMs": 3564.833,
+        "confidence": null
+      },
+      {
+        "text": "você",
+        "startMs": 4236.125,
+        "endMs": 4502.333,
+        "timestampMs": 4236.125,
+        "confidence": null
+      },
+      {
+        "text": "precisa",
+        "startMs": 4513.875,
+        "endMs": 4918.958,
+        "timestampMs": 4513.875,
+        "confidence": null
+      },
+      {
+        "text": "de",
+        "startMs": 4930.541,
+        "endMs": 4988.416,
+        "timestampMs": 4930.541,
+        "confidence": null
+      },
+      {
+        "text": "uma",
+        "startMs": 5000.0,
+        "endMs": 5092.583,
+        "timestampMs": 5000.0,
+        "confidence": null
+      },
+      {
+        "text": "oferta",
+        "startMs": 5104.166,
+        "endMs": 5543.999,
+        "timestampMs": 5104.166,
+        "confidence": null
+      },
+      {
+        "text": "que",
+        "startMs": 5555.541,
+        "endMs": 5671.291,
+        "timestampMs": 5555.541,
+        "confidence": null
+      },
+      {
+        "text": "faça",
+        "startMs": 5682.875,
+        "endMs": 5960.666,
+        "timestampMs": 5682.875,
+        "confidence": null
+      },
+      {
+        "text": "sentido",
+        "startMs": 5972.208,
+        "endMs": 6423.583,
+        "timestampMs": 5972.208,
+        "confidence": null
+      },
+      {
+        "text": "para",
+        "startMs": 6435.166,
+        "endMs": 6620.332,
+        "timestampMs": 6435.166,
+        "confidence": null
+      },
+      {
+        "text": "quem",
+        "startMs": 6631.958,
+        "endMs": 6759.291,
+        "timestampMs": 6631.958,
+        "confidence": null
+      },
+      {
+        "text": "acompanha",
+        "startMs": 6770.833,
+        "endMs": 7268.499,
+        "timestampMs": 6770.833,
+        "confidence": null
+      },
+      {
+        "text": "sua",
+        "startMs": 7280.083,
+        "endMs": 7523.124,
+        "timestampMs": 7280.083,
+        "confidence": null
+      },
+      {
+        "text": "página",
+        "startMs": 7534.708,
+        "endMs": 7974.541,
+        "timestampMs": 7534.708,
+        "confidence": null
+      }
+    ]
+  },
+  {
+    "text": "Quer conhecer o FP e entender como começar com páginas sem aparecer? Comente FP. Eu te mostro os detalhes.",
+    "frames": 276,
+    "captions": [
+      {
+        "text": "Quer",
+        "startMs": 96.291,
+        "endMs": 293.041,
+        "timestampMs": 96.291,
+        "confidence": null
+      },
+      {
+        "text": "conhecer",
+        "startMs": 304.625,
+        "endMs": 790.75,
+        "timestampMs": 304.625,
+        "confidence": null
+      },
+      {
+        "text": "o",
+        "startMs": 802.333,
+        "endMs": 906.499,
+        "timestampMs": 802.333,
+        "confidence": null
+      },
+      {
+        "text": "FP",
+        "startMs": 918.041,
+        "endMs": 1311.541,
+        "timestampMs": 918.041,
+        "confidence": null
+      },
+      {
+        "text": "e",
+        "startMs": 1323.166,
+        "endMs": 1369.4569,
+        "timestampMs": 1323.166,
+        "confidence": null
+      },
+      {
+        "text": "entender",
+        "startMs": 1381.0,
+        "endMs": 1820.833,
+        "timestampMs": 1381.0,
+        "confidence": null
+      },
+      {
+        "text": "como",
+        "startMs": 1832.416,
+        "endMs": 2040.749,
+        "timestampMs": 1832.416,
+        "confidence": null
+      },
+      {
+        "text": "começar",
+        "startMs": 2052.333,
+        "endMs": 2492.166,
+        "timestampMs": 2052.333,
+        "confidence": null
+      },
+      {
+        "text": "com",
+        "startMs": 2503.708,
+        "endMs": 2688.874,
+        "timestampMs": 2503.708,
+        "confidence": null
+      },
+      {
+        "text": "páginas",
+        "startMs": 2700.458,
+        "endMs": 3140.291,
+        "timestampMs": 2700.458,
+        "confidence": null
+      },
+      {
+        "text": "sem",
+        "startMs": 3151.833,
+        "endMs": 3325.458,
+        "timestampMs": 3151.833,
+        "confidence": null
+      },
+      {
+        "text": "aparecer",
+        "startMs": 3337.041,
+        "endMs": 3857.874,
+        "timestampMs": 3337.041,
+        "confidence": null
+      },
+      {
+        "text": "Comente",
+        "startMs": 4652.791,
+        "endMs": 5138.916,
+        "timestampMs": 4652.791,
+        "confidence": null
+      },
+      {
+        "text": "FP",
+        "startMs": 5150.458,
+        "endMs": 5659.708,
+        "timestampMs": 5150.458,
+        "confidence": null
+      },
+      {
+        "text": "Eu",
+        "startMs": 6458.333,
+        "endMs": 6631.958,
+        "timestampMs": 6458.333,
+        "confidence": null
+      },
+      {
+        "text": "te",
+        "startMs": 6643.5,
+        "endMs": 6759.25,
+        "timestampMs": 6643.5,
+        "confidence": null
+      },
+      {
+        "text": "mostro",
+        "startMs": 6770.833,
+        "endMs": 7199.083,
+        "timestampMs": 6770.833,
+        "confidence": null
+      },
+      {
+        "text": "os",
+        "startMs": 7210.666,
+        "endMs": 7256.9569,
+        "timestampMs": 7210.666,
+        "confidence": null
+      },
+      {
+        "text": "detalhes",
+        "startMs": 7268.5,
+        "endMs": 7916.666,
+        "timestampMs": 7268.5,
+        "confidence": null
+      }
+    ]
+  }
+]

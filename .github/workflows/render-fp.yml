@@ -1,0 +1,37 @@
+name: Render FP Neon
+on:
+  push:
+    branches: [video/fp-neon-20261112]
+    paths: ['video-fp/**', '.github/workflows/render-fp.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    defaults:
+      run:
+        working-directory: video-fp
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - run: python3 generate_music.py
+      - run: npx tsc --noEmit
+      - run: npx remotion browser ensure
+      - name: Preview frames
+        run: |
+          mkdir -p out
+          for f in 100 300 650 850 1150 1420; do
+            npx remotion still src/index.tsx FP-Neon out/frame-$f.jpg --frame=$f --image-format=jpeg --log=error
+          done
+      - name: Render video
+        run: npx remotion render src/index.tsx FP-Neon out/FP-Neon.mp4 --codec=h264 --crf=18 --concurrency=2 --log=error
+      - uses: actions/upload-artifact@v4
+        with:
+          name: FP-Neon-video
+          path: video-fp/out/
+          retention-days: 30
