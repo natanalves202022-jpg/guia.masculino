@@ -13,4 +13,3 @@ for i in range(int(sr*duration)):
  s*=min(1,t/.5)*min(1,(duration-t)/1.5)
  buf.extend(int(max(-1,min(1,s))*32767).to_bytes(2,'little',signed=True))
 with wave.open('public/soundtrack.wav','wb') as w:w.setnchannels(1);w.setsampwidth(2);w.setframerate(sr);w.writeframes(buf)
-subprocess.run(['ffmpeg','-v','error','-y','-i','public/soundtrack.wav','-b:a','96k','public/soundtrack.mp3'],check=True)
